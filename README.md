@@ -15,6 +15,10 @@
 ## 根拠法令条項 	
 大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律（令和５年法律第 84号）第１条の規定による改正後の大麻草の栽培の規制に関する法律（昭和23 年法律第124号）第13条第４項
 
+- [大麻草の栽培の規制に関する法律 | e-Gov法令検索](https://elaws.e-gov.go.jp/document?lawid=323AC0000000124_20241212_505AC0000000084)
+- [●大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律案](https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/houan/g21209007.htm)
+- [大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律案：参議院](https://www.sangiin.go.jp/japanese/joho1/kousei/gian/212/meisai/m212080212007.htm)
+
 ## 行政手続法に基づく手続か 	
 行政手続法に基づく手続
 
